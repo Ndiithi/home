@@ -21,7 +21,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/ndiithi/star_book/network)
 [![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/ndiithi/star_book/issues)
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/ndiithi/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DuncanNdeithi?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/DuncanNdeithi)
 
 [![Site preview](/public/social-image.png)](https://ndiithi.github.io/)
 
